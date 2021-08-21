@@ -1,0 +1,11 @@
+com/mygdx/game/Biblio.java
+ com.mygdx.game.Biblio
+com/mygdx/game/Bookshelf/Bookshelf.java
+ com.mygdx.game.Bookshelf.Bookshelf
+com/mygdx/game/Hero/Hero.java
+ com.mygdx.game.Hero.Hero
+com/mygdx/game/MainMenuScreen.java
+ com.mygdx.game.MainMenuScreen
+ com.mygdx.game.MainMenuScreen$1
+com/mygdx/game/GameScreen.java
+ com.mygdx.game.GameScreen
