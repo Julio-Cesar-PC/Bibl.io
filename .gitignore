@@ -112,4 +112,8 @@ Thumbs.db
 !/ios/xcode/*.xcodeproj/project.pbxproj
 /ios/xcode/native/
 /ios/IOSLauncher.app
+<<<<<<< HEAD
 /ios/IOSLauncher.app.dSYM
+=======
+/ios/IOSLauncher.app.dSYM
+>>>>>>> 0d8ed8097994a4395f8f164d9df024b468e15b38
